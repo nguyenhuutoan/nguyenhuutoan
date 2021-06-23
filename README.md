@@ -1,8 +1,4 @@
-- gio
-- lanh
-* dau
-Mua 
-Thu *
+
 - 👋 Hi, I’m @nguyenhuutoan
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
